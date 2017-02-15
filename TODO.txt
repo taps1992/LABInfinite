@@ -1,0 +1,182 @@
+// point basics needs more for clubs / assymetrical shapes
+	
+Clean up update loop	
+	
+DC figure square short
+Figure Square Short reverse? 
+hypo figure square	
+	
+exxtra beat trammel
+point hybrid trammel
+perpendicular quarters
+iso-anti true hybrids
+RINGS
+point hybrid perpendicular - inside / outside / both
+
+OTHER WAY BASICS
+3/4 grip point for staffs
+8 ring triangles
+chuu chuu snake
+rings - isopops 
+hoop hands in labcanvas paint needs to be overhauled. to deal with turning hoops.
+
+paradiddle static
+
+	
+	
+Left: 0,0.025,5.497787143782138,0,0.025,3.141592653589793,1.0,1.0,-1.0,1.0,9.0,205.0,RealHypocycloid,1.0,0,250.0,0,345.0,0.0,-0.7853981633974483,0.0,
+Right: 0,0.025,3.9269908169872414,0,0.025,0.0,1.0,-1.0,1.0,1.0,9.0,205.0,RealHypocycloid,1.0,0,250.0,0,345.0,0.0,0.7853981633974483,0.0,
+	
+4.71238898038469
+5.497787143782138	
+3.9269908169872414
+
+	
+movie output - not jpeg. - fully streaming - indication to user
+						- set times - and when you press record						*********************
+-- set scheduleFixedRate and fps stuff!!!!!!!!!!!
+						
+direction changes - within a pattern   
+	-- checkboxs																	*********************
+	-- need a seperate modifier for this. 
+
+saving patterns
+-- deleteing them / organising them
+	 
+// routines				
+-- 4 vs 8 = choose stuff
+-- make it work. make options. 
+-- use the jtable. 
+
+// transitions  --- v 2.0	
+-- period - overlap points - meta classes
+-- pattern class contains combined period and name. 
+		
+		
+export patterns to pdf for printing 
+	-- check all pattern to make em work. 											*********************
+-- wait for internet to make pretty 								
+	-- options for periods and intervals. 											*********************
+	-- indicate to user																*********************
+		
+
+// normalise - save and load. 
+
+// if stopped, don't draw it 
+
+
+
+
+		
+// about and help 							***************************************
+-- tooltips keyboard shortcuts
+-- training video - ARG!
+-- help screen & about
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////		
+///////////////////////////////////////////////////////////////////////////////////////////////////////////	
+///////////////////////////////////////////////////////////////////////////////////////////////////////////	
+
+
+		
+		// make into a game.
+		
+	// translations. lissajous 
+		--  extra settings. 
+	// finish translated. 
+		// triangles. pentagons, octagons. 
+
+		
+		// reset resets buttons
+		-- as does loading patterns.... 
+		-- link parameters to their displays somehow... 
+		
+		// calculate periods automatically in pattern class
+		
+		// move things around. - there is an extra variable at work that I have no control over. 
+		-- figure out offsetting patterns. 
+		
+		// refactor all shapes to work with new drawing code. reverses circle. = win.  should be much simpler. 
+		// anti-clockwise vs clockwise. 
+			-- make sure they work with direction change and path change code.  
+			http://en.wikipedia.org/wiki/Butterfly_curve_(transcendental)
+			-- square, stepped, fig 8, lissa real, hypo - quarters / halfs
+					
+				
+		// save four patterns 
+- turn off four
+		
+		// guess what a pattern is called based on some attributes... -1 circle to hand directions.... 
+		-- do more of this. 
+		 	
+		
+// 3d  												
+	-- yeah could work. 
+	--- OVERLAY to say which view it is. 
+	-- views - 3d... 
+	-- coin spin motion between two moving planes in 3d. 
+	-- record 3d
+	-- seperate controls
+	-- polyrythm between planes. different rotation values for each plane. 
+	-- anti alias. tried + failed. 
+	-- make pretty. depth test. 
+	-- disable all menubar controls along with disable 3d same for enable etc...	
+		-- save 3D patterns. 
+		-- add 3d elements to reset etc... 
+		-- do something about overlaps. 
+		-- get back from multiple views properly
+		-- higher quality circle calculation for 3d
+		-- 3d fire trails
+		-- show semi transparent plane
+		-- clubs and new shapes too maybe. 
+		-- fake 3D affineTransform manipulations. in 2d form. 
+		
+		// finish up the routine stuff, make it easier to use. 	
+		-- save them, load them. 
+		-- show timeline better 
+		-- length of time between transitions. 
+		
+		// finish up organising patterns - plus make it look better. 
+	
+	
+	
+	// create permutation patterns.
+		-- create fast translate option - same time as a quarter, rather than a half. 
+		-- make opp direction work
+		-- save setup 
+	
+		// embed shape paths in complex shape paths? like circle in translated circle.  
+			
+
+		-- fix patterns with bad zero numbers. 
+		
+		// make record better // cleaner
+		
+		// bad menu overlapping of 3d component may be due to it being a heavyweight component. 
+		// JPopupMenu.setLightWeightPopupEnabled(false)
+		
+		// PDF - make prettier and more useful for learning from. overlaying images... small images, 
+		// all inna row. 
+		// figure out why some pattern don't initialise. 
+		// make it work for all periods of patterns. 
+
+		// make more complex trail options
+		
+		// plus use numbers more in options. 
+		
+		// sync doesn't work 
+		
+///////////////////////////////////////////////////////////////////////////////////////////////////////////		
+///////////////////////////////////////////////////////////////////////////////////////////////////////////	
+///////////////////////////////////////////////////////////////////////////////////////////////////////////		
+		
+		
+		NOTAPRIORITY
+		
+		// human arm rotation limits.
+		
+		// change image of each staff independently - including four. 
+		
+		// better r-types not circular. 
+		-- actually quite hard. 
+		
